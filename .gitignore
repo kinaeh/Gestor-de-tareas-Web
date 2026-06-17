@@ -1,0 +1,9 @@
+# Dependencias (La carpeta gigante que NO se sube)
+node_modules/
+
+# Variables de entorno y credenciales secretas
+.env
+
+# Archivos temporales o configuraciones del sistema operativo
+.DS_Store
+Thumbs.db
